@@ -3,7 +3,7 @@ Overview
 
 MusicApp is an engaging, user-friendly web application designed by BenlarCreatives.
 It allows users to register and submit song requests that can later be integrated with popular streaming platforms like YouTube Music, Spotify, and Apple Music.
-This application would be perfect for an indoor setup or fun event with family and friends. Allowing each person attending the organized event to have a shared responsibility to play their kind of music and enjoy the setup as well.
+This application would be perfect for indoor setups or fun events with family and friends, allowing everyone attending to share responsibility for the music selection. Each participant can request their favorite songs, creating a shared and enjoyable music experience for everyone.
 
 The project consists of two main webpages styled with a unified stylesheet.
 
@@ -81,4 +81,5 @@ Developer: BenlarCreatives
 Location: South Africa
 Year: 2025
 License: All Rights Reserved © BenlarCreatives 2025
+
 LinkedIn: https://www.linkedin.com/in/leonard-makgopa-14486a223
